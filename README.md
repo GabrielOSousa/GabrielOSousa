@@ -29,4 +29,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c11e38,100:371254&height=95&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:c11e38,100:371254&height=90&section=footer"/>
