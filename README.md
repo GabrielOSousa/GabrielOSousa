@@ -5,7 +5,7 @@
 
 <div align="center" >  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielOSousa&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0D1117" alt="Gabriel Sousa github stats" /> 
-  <img width="54%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOSousa&layout=donut-vertical&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0D1117" alt="Gabriel Sousa github stats" />
+  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOSousa&layout=donut-vertical&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0D1117" alt="Gabriel Sousa github stats" />
 </div>
 
 
